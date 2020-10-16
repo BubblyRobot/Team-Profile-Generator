@@ -4,8 +4,6 @@
 ## Description
  This application allows you to generate address and information cards for each member of your team. 
 
- 
-
  Part 1: Click the below Gif to go to the full sized Youtube Video of the functionality. <br>
  [![Gif of team Profile Generator Functionality](./Assets/TeamProfileGenerator.gif)](https://youtu.be/HzjzLp7mT80/link "Link to full sized video")
 
